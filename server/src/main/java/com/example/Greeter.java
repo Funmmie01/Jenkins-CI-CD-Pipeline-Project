@@ -1,16 +1,13 @@
 package com.example;
-
 /**
  * This is a class.
  */
-public class GreeterS{
-
+public class Greeter {
   /**
    * This is a constructor.
    */
   public Greeter() {
   }
-
  /**
    * This is a method.
    */
