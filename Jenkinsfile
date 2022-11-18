@@ -88,7 +88,7 @@ pipeline {
          }
     }
     
-         stage('Deploy to DEV') {
+         stage('Deploy to DEVING') {
           environment {
             HOSTS = "dev"
           }
